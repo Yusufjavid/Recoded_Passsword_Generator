@@ -11,15 +11,11 @@ Try it out here:
 
 The following image demonstrates the application functionality:
 
-<<<<<<< HEAD
+
 ![password generator demo](./Assets/step1.png)
 ![alerts1 prompt](./Assets/step2.png)
 ![alerts2 ](./Assets/step3.png)
 ![alerts3 ](./Assets/step4.png)
 ![alerts4](./Assets/step5.png)
-![Password generator](./Assets/step5.png)
+![Password generator](./Assets/step6.png)
 =======
-![password generator demo](./Assets/screenshot1.png)
-![password generator prompt](./Assets/screenshot2.png)
-![generated password](./Assets/screenshot3.png)
->>>>>>> 5bbd540d5d41a40e8ddc367bc528868bb40b60cb
