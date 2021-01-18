@@ -17,5 +17,10 @@ The following image demonstrates the application functionality:
 ![alerts2 ](./Assets/step3.png)
 ![alerts3 ](./Assets/step4.png)
 ![alerts4](./Assets/step5.png)
+<<<<<<< HEAD
 ![Password generator](./Assets/step6.png)
 =======
+=======
+![Password generator](./Assets/step5.png)
+
+>>>>>>> e214f525b1ebf08c4d085c76e9c7021767ddf895
