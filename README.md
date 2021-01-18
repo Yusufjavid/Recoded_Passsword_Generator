@@ -23,4 +23,4 @@ The following image demonstrates the application functionality:
 =======
 ![Password generator](./Assets/step5.png)
 
->>>>>>> e214f525b1ebf08c4d085c76e9c7021767ddf895
+
