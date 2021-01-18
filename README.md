@@ -7,7 +7,7 @@ This is a password generator built using JavaScript.
 - User can choose up to four different character types!
 - View the password with randomly generated character in the textbox.
 
-Try it out here: https://johannt91.github.io/password-generator/
+Try it out here: 
 
 The following image demonstrates the application functionality:
 
